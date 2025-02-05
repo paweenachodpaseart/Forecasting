@@ -6,6 +6,7 @@ This project focuses on forecasting the number of passengers boarding United Air
 
 1.Holt-Winters Method (Exponential Smoothing Adjusted for Trend and Seasonal Variation)
 - Achieved the lowest Mean Absolute Percentage Error (MAPE) of 2.2507%.
+  
 2.Box-Jenkins (ARIMA Model)
 - Verified assumptions of independence, normal distribution, and variance stationarity.
 
