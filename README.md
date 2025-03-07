@@ -1,3 +1,7 @@
+<div id="header" align="center">
+ <img src="https://github.com/paweenachodpaseart/Forecasting/blob/main/UnitedAirlines.jpg?raw=true"width="900"/>
+</div>
+
 # Forecasting
 Forecasting the Number of Passengers Boarding United Airlines Flights🛫
 
